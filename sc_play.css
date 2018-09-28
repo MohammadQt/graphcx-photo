@@ -71,7 +71,7 @@
 	
 	&:hover {
 		background: @red-darker;
-		background: rgba(19, 19, 19, 0.22);
+		background: #3e3c3c;
 	}
 	
 	&:after {
@@ -107,7 +107,7 @@
 
 .sc-scrubber .sc-time-indicators{
 	background: @red-darker;
-	background: rgba(19, 19, 19, 0.22);
+	background: #3e3c3c;
 	color: #000000;
 	border-radius: 4px;
 	padding: 7px;
@@ -171,9 +171,9 @@
 
 	.sc-volume-slider .sc-volume-status{
 		background-color: @red-darker;
-		background-color: rgba(19,19,19,0.22);
+		background-color: #3e3c3c;
 		border-right: 1px solid @red-darker;
-		border-right: 1px solid rgba(19,19,19,0.22);
+		border-right: 1px solid #3e3c3c;
 		//border-right: 1px solid white;
 	}
 
@@ -198,7 +198,7 @@
 
 	.sc-played {
 		background: @red-darker;
-		background: rgba(19, 19, 19, 0.22);
+		background: #3e3c3c;
 		z-index: 799;
 	}
 }
@@ -263,7 +263,7 @@
 
 		&:hover {  
 			background: @red-darker;
-			background: rgba(19, 19, 19, 0.22);
+			background: #3e3c3c;
 		}
 
 		&.active{  
@@ -273,7 +273,7 @@
 			-webkit-border-radius: 4px;
 
 			 a {
-				color: #fff;
+				color: #8b48d4;
 			}
 		}
 	}
@@ -310,7 +310,7 @@
 	}
  
 	.sc-info a {
-		color: #fff;
+		color: #8b48d4;
 	}
 }
 
@@ -343,14 +343,14 @@ p {
 
 .sc-player .sc-info-toggle{
 	background: #22B573;
-	color: #fff;
+	color: #8b48d4;
 	border-radius: 4px;
 	padding: 4px;
 }
 
 .sc-player .sc-info-toggle:hover{
 	background: #333;
-	color: #fff;
+	color: #8b48d4;
 }
 
 .sc-player .sc-info-close{
